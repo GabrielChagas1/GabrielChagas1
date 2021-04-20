@@ -10,7 +10,7 @@ My name is Gabriel Chagas, i'm from Brazil and i´m a web developer since 2017 :
 class Bio extends SoftwareDeveloper {
  const name = "Gabriel Serqueira Chagas";
  const acknowledgements = "Sistemas de informação";
- let languages = ["HTML", "CSS", "JavaScript", "C#", "Typescript"]; 
+ let skills = ["HTML", "CSS", "JavaScript", "C#"]; 
 
 }
 ```
