@@ -7,7 +7,7 @@ My name is Gabriel Chagas, i'm from Brazil and i´m a web developer since 2019 :
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```js
-object **Gabriel Chagas** {
+class **Gabriel Chagas** {
  const name = "Gabriel Serqueira Chagas";
  const acknowledgements = "Sistemas de informação";
  let languages = listOf("HTML", "CSS", "JavaScript", "C#", "Typescript"); 
