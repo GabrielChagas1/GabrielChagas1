@@ -1,6 +1,6 @@
 ### Hello devs 👋
 
-My name is Gabriel Chagas, i'm from Brazil and i´m a web developer since 2019 :computer:
+My name is Gabriel Chagas, i'm from Brazil and i´m a web developer since 2017 :computer:
 
 ## <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> Mais sobre mim
 
@@ -10,7 +10,7 @@ My name is Gabriel Chagas, i'm from Brazil and i´m a web developer since 2019 :
 class Bio extends SoftwareDeveloper {
  const name = "Gabriel Serqueira Chagas";
  const acknowledgements = "Sistemas de informação";
- let languages = listOf("HTML", "CSS", "JavaScript", "C#", "Typescript"); 
+ let languages = ["HTML", "CSS", "JavaScript", "C#", "Typescript"]; 
 
 }
 ```
