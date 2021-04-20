@@ -1,18 +1,16 @@
-### Oie devs 👋
+### Hello devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+My name is Gabriel Chagas, i'm from Brazil and i´m a web developer since 2019 :computer:
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
+```js
 object **Gabriel Chagas** {
- val name = "Gabriel Serqueira Chagas"
- val acknowledgements = "Sistemas de informação"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("HTML", "CSS", "JavaScript", "C#", "Typescript") 
+ const name = "Gabriel Serqueira Chagas";
+ const acknowledgements = "Sistemas de informação";
+ let languages = listOf("HTML", "CSS", "JavaScript", "C#", "Typescript"); 
 
 }
 ```
